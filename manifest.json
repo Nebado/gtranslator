@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "GTranslator",
+  "version": "1.0",
+
+  "description": "The simple extension to translate text with popup used google translate.",
+
+  "background": {
+    "scripts": ["background.js"] 
+  },
+
+  "permissions": ["menus"]
+}
