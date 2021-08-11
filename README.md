@@ -1,3 +1,3 @@
-#GTranslate
+# GTranslate
 
-The Firefox extension to translate selected text used google translate.
+*** The Firefox extension to translate selected text used google translate.***
