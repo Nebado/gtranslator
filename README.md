@@ -8,5 +8,5 @@
 
 ## References
 
-https://www.labnol.org/code/19909-google-translate-api
-https://github.com/matheuss/google-translate-api
+- https://www.labnol.org/code/19909-google-translate-api
+- https://github.com/matheuss/google-translate-api
