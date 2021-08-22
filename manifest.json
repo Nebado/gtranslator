@@ -3,10 +3,10 @@
   "name": "GTranslator",
   "version": "1.0",
 
-  "description": "The simple extension to translate text with popup used google translate.",
+  "description": "The simple extension to translate selected text using google translate api.",
 
   "background": {
-    "scripts": ["background.js"] 
+    "scripts": ["background.js"]
   },
 
   "content_scripts": [
